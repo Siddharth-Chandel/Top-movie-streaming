@@ -40,7 +40,7 @@ This project focuses on analyzing and classifying movies to provide valuable ins
 ### 2. How to Run
 Clone the repository:
 ```bash
-git clone https://github.com/<your-username>/top-movie-streaming.git
+git clone https://github.com/Siddharth-Chandel/top-movie-streaming.git
 cd top-movie-streaming
 ```
 Load your movie dataset into the root.
